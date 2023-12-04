@@ -11,7 +11,7 @@ public class lab2question {
         f = sc.nextDouble();
         
         c = (f-32/1.8);
-        
+        System.out.println();
         System.out.printf("%.2f" ,c);
         
        
